@@ -12,7 +12,7 @@
     <script src="https://kit.fontawesome.com/349ee9c857.js" crossorigin="anonymous"></script>
     
     <!-- CSS Files -->
-    <link rel="stylesheet" href="../assets/css/corporate-ui-dashboard.css?v=1.0.0">
+    <link rel="stylesheet" href="{{ asset('assets/css/corporate-ui-dashboard.css?v=1.0.0') }}">
 </head>
 
 <body class="bg-light-blue">
