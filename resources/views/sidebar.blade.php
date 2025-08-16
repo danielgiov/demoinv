@@ -1,11 +1,11 @@
 <div class="sidebar" data-color="white" data-active-color="danger" style="background-color: #add8e6;">
   <div class="logo">
-    <a href="https://www.creative-tim.com" class="simple-text logo-mini">
+    <a href="https://www.danielgdprojects.com" class="simple-text logo-mini">
       <div class="logo-image-small">
         <img src="{{ asset('public/assets/img/solonetputih.png') }}">
       </div>
     </a>
-    <a href="https://www.creative-tim.com" class="simple-text logo-normal">
+    <a href="https://www.danielgdprojects.com" class="simple-text logo-normal">
       Inventory
     </a>
   </div>
