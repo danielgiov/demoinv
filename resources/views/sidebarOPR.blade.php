@@ -1,7 +1,7 @@
 <div class="logo">
     <a href="https://www.creative-tim.com" class="simple-text logo-mini">
       <div class="logo-image-small">
-        <img src="{{ asset('assets/img/solonetputih.png') }}">
+        <img src="{{ asset('public/assets/img/solonetputih.png') }}">
       </div>
     </a>
     <a href="https://www.creative-tim.com" class="simple-text logo-normal">

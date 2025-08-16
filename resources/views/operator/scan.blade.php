@@ -10,8 +10,8 @@
         content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' />
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
-    <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" />
-    <link href="{{ asset('assets/css/paper-dashboard.css?v=2.0.1') }}" rel="stylesheet" />
+    <link href="{{ asset('public/assets/css/bootstrap.min.css') }}" rel="stylesheet" />
+    <link href="{{ asset('public/assets/css/paper-dashboard.css?v=2.0.1') }}" rel="stylesheet" />
 </head>
 
 <body>
@@ -95,9 +95,9 @@
     </div>
 
     <!-- Include jQuery, Bootstrap, SweetAlert -->
-    <script src="{{ asset('assets/js/core/jquery.min.js') }}"></script>
-    <script src="{{ asset('assets/js/core/popper.min.js') }}"></script>
-    <script src="{{ asset('assets/js/core/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('public/assets/js/core/jquery.min.js') }}"></script>
+    <script src="{{ asset('public/assets/js/core/popper.min.js') }}"></script>
+    <script src="{{ asset('public/assets/js/core/bootstrap.min.js') }}"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
     <script>
